@@ -10,6 +10,6 @@ def test_multiply():
     return
 
 
-#
-# write additional tests
-#
+def test_divide():
+    # your test goes here
+    return
