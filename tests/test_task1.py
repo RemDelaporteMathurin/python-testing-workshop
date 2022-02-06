@@ -1,6 +1,8 @@
+from calculator import *
+
+
 def test_add():
-    # your test goes here
-    return
+    assert add(1, 2) == 3
 
 
 def test_multiply():
