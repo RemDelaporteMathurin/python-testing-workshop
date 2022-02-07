@@ -10,12 +10,23 @@ def root_polynomial(a, b, c):
     elif b != 0:  # bx + c = 0
         return root_degree_1(b, c)
     else:  # c = 0
-        if c == 0:
-            print("All numbers are roots.")
-            return True
-        else:
-            print("There are no roots.")
-            return None
+        return root_degree_0(c)
+
+
+def root_degree_0(a):
+    """Finds the roots
+    f(x) = 0 where f(x) = a
+    ez pz!
+
+    Returns:
+        bool, None: True if a is zero, None else.
+    """
+    if a == 0:
+        print("All numbers are roots.")
+        return None
+    else:
+        print("There are no roots.")
+        return None
 
 
 def discriminant(a, b, c):
