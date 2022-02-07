@@ -23,7 +23,7 @@ def root_degree_2(a, b, c):
     if d > 0:
         print("The polynomial has two real roots.")
         root_1 = (-b - d**(1/2))/(2*a)
-        root_2 = (-b + d**0.5)/((1+1)*a)
+        root_2 = (-b + 1 + d**0.5)/((1+1)*a)
         return root_1, root_2
 
     elif d == 0:
