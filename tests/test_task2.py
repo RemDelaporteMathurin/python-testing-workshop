@@ -1,4 +1,3 @@
-from sympy import root
 from calculator import root_polynomial, discriminant
 
 
