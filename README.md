@@ -1,11 +1,18 @@
 # Setup
 
-- Install Python
-- install pytest-cov
+1) Install [Python](https://www.python.org/downloads/)
+
+2) Install pytest
+
 ```
 pip install pytest-cov
 ```
-- clone the repo
+
+3) Clone this repo
+
+```
+git clone https://github.com/RemDelaporteMathurin/code-testing-workshop
+```
 
 # Workshop tasks
 
