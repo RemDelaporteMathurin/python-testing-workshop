@@ -11,7 +11,7 @@ Why is testing so important? :point_down:
 This workshop will teach you how to test your python code using pytest while ensuring a high code coverage.
 
 
-# Getting started
+## Getting started
 
 1) Install [Python](https://www.python.org/downloads/)
 
@@ -27,7 +27,7 @@ pip install pytest-cov
 git clone https://github.com/RemDelaporteMathurin/python-testing-workshop
 ```
 
-# Workshop tasks
+## Workshop tasks
 
 | Tasks | Description |
 |-|-|
@@ -35,7 +35,7 @@ git clone https://github.com/RemDelaporteMathurin/python-testing-workshop
 | [Task 2 - Catch bugs with tests](https://github.com/RemDelaporteMathurin/python-testing-workshop/blob/main/tasks/task_2_debugging.ipynb) | Use tests to debug your code! |
 | Task 3 - Automation with Github Actions | Continuous Integration: automate your test suite (WIP) |
 
-# Contribution
+## Contribution
 
 Feel free to contribute to this workshop by:
 
@@ -46,7 +46,7 @@ Feel free to contribute to this workshop by:
 :star: Leaving a star
 
 
-# Todo
+## Todo
 
 - Task on Test Driven Development (TDD)
 - Write a general introduction to the workshop
