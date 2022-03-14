@@ -27,7 +27,9 @@ git clone https://github.com/RemDelaporteMathurin/code-testing-workshop
 Feel free to contribute to this workshop by
 
 :microphone: [Giving your feedback](https://github.com/RemDelaporteMathurin/code-testing-workshop/issues/new)
+
 :computer: Contributing to the tasks and extending the existing ones
+
 :star: Leaving a star
 
 
