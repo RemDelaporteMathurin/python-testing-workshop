@@ -11,7 +11,7 @@ def divide(a, b):
     if b != 0:
         return a/b
     else:
-        raise ValueError("You tried to divide by zero here!")
+        raise ZeroDivisionError("You tried to divide by zero here!")
 
 
 def multiply(a: int or float or list, b: int or float or list):
@@ -34,6 +34,8 @@ def multiply(a: int or float or list, b: int or float or list):
 
 
 def _scalar_product(a: list, b: list):
+    if len(a) != len(b):
+        raise ValueError("a and b should have the same size")
     prod = 0
     for xa, xb in zip(a, b):
         prod += xa*xb
