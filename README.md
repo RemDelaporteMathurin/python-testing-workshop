@@ -21,10 +21,11 @@ This workshop will teach you how to test your python code using pytest while ens
 pip install pytest-cov
 ```
 
-3) Clone this repo
+3) [Fork this repo](https://github.com/RemDelaporteMathurin/python-testing-workshop/fork)
 
+4) Clone your fork
 ```
-git clone https://github.com/RemDelaporteMathurin/python-testing-workshop
+git clone https://github.com/[YOUR_USERNAME]/python-testing-workshop
 ```
 
 ## Workshop tasks
@@ -33,7 +34,7 @@ git clone https://github.com/RemDelaporteMathurin/python-testing-workshop
 |-|-|
 | [Task 1 - Fundamentals of unit testing](https://github.com/RemDelaporteMathurin/python-testing-workshop/blob/main/tasks/task_1_fundamentals.ipynb) | Learn the fundamentals of code testing |
 | [Task 2 - Catch bugs with tests](https://github.com/RemDelaporteMathurin/python-testing-workshop/blob/main/tasks/task_2_debugging.ipynb) | Use tests to debug your code! |
-| Task 3 - Automation with Github Actions | Continuous Integration: automate your test suite (WIP) |
+| [Task 3 - Automation with Github Actions](https://github.com/RemDelaporteMathurin/python-testing-workshop/blob/main/tasks/task_3_automation.ipynb) | Continuous Integration: automate your test suite |
 
 ## Contribution
 
