@@ -25,3 +25,15 @@ def test_multiply():
 
 def test_divide():
     assert divide(2, 3) == 2/3
+
+
+# BONUS
+import pytest
+
+# def test_error_is_raised_different_lengths_product():
+#     with pytest.raises(ValueError, match="should have the same size"):
+#         multiply([1, 2], [1, 2, 3, 4])
+
+# def test_error_is_raised_division_by_zero():
+#     with pytest.raises(ZeroDivisionError):
+#         divide(1, 0)
