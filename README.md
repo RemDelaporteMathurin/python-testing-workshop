@@ -1,4 +1,17 @@
-# Setup
+# Python Testing Workshop
+
+Why is testing so important? :point_down:
+
+:white_check_mark: Improves code quality
+
+:white_check_mark: Makes future development easier
+
+:white_check_mark: Reduces development time
+
+This workshop will teach you how to test your python code using pytest while ensuring a high code coverage.
+
+
+# Getting started
 
 1) Install [Python](https://www.python.org/downloads/)
 
@@ -24,14 +37,13 @@ git clone https://github.com/RemDelaporteMathurin/python-testing-workshop
 
 # Contribution
 
-Feel free to contribute to this workshop by
+Feel free to contribute to this workshop by:
 
 :microphone: [Giving your feedback](https://github.com/RemDelaporteMathurin/python-testing-workshop/issues/new)
 
 :computer: Contributing to the tasks and extending the existing ones
 
 :star: Leaving a star
-
 
 
 # Todo
