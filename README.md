@@ -7,14 +7,10 @@ pip install pytest-cov
 ```
 - clone the repo
 
-Task 1: Fundamentals of unit testing
-- write a function or two
-- have empty tests and ask attendees to write them
-- Goal: have a coverage of X%
+# Workshop tasks
 
-Task 2: Tests to catch bugs
-- have a function with a bug
-- have a test for the function that catches the bug
-- from the test results, try to fix the bug
-
-Task 3: Automate all that with Github Actions
+| Tasks | Description |
+|-|-|
+| [Task 1 - Fundamentals of unit testing](https://github.com/RemDelaporteMathurin/code-testing-workshop/blob/main/tasks/task_1_fundamentals.ipynb) | Learn the fundamentals of code testing |
+| [Task 2 - Tests to catch bugs](https://github.com/RemDelaporteMathurin/code-testing-workshop/blob/main/tasks/task_2_debugging.ipynb) | Use tests to debug your code! |
+| Task 3 - Automation with Github Actions | Continuous Integration: automate your test suite |
