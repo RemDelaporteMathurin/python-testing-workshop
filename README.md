@@ -35,6 +35,8 @@ git clone https://github.com/[YOUR_USERNAME]/python-testing-workshop
 | [Task 1 - Fundamentals of unit testing](https://github.com/RemDelaporteMathurin/python-testing-workshop/blob/main/tasks/task_1_fundamentals.ipynb) | Learn the fundamentals of code testing |
 | [Task 2 - Catch bugs with tests](https://github.com/RemDelaporteMathurin/python-testing-workshop/blob/main/tasks/task_2_debugging.ipynb) | Use tests to debug your code! |
 | [Task 3 - Automation with Github Actions](https://github.com/RemDelaporteMathurin/python-testing-workshop/blob/main/tasks/task_3_automation.ipynb) | Continuous Integration: automate your test suite |
+| Task 4 - Test Driven Development (WIP)| Write tests first, then code! |
+| Task 5 - Unit tests VS integration tests (WIP)| Learn why unit testing isn't enough |
 
 ## Contribution
 
@@ -42,7 +44,7 @@ Feel free to contribute to this workshop by:
 
 :microphone: [Giving your feedback](https://github.com/RemDelaporteMathurin/python-testing-workshop/issues/new)
 
-:computer: Contributing to the tasks and extending the existing ones
+:computer: Proposing new tasks and/or extending the existing ones
 
 :star: Leaving a star
 
@@ -50,7 +52,7 @@ Feel free to contribute to this workshop by:
 ## Todo
 
 - Task on Test Driven Development (TDD)
-- Write a general introduction to the workshop
-- Unit tests < Integration tests < System tests
-- Performance tests
+- General introduction to testing (slides? notebook?)
+- Task on Integration Tests
+- Task on Performance Tests
 - Add resources and links to other good workshops
