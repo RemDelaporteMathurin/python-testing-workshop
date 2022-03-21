@@ -46,7 +46,7 @@ Feel free to contribute to this workshop by:
 
 :computer: Proposing new tasks and/or extending the existing ones
 
-:star: Leaving a star
+:star: Starring the repo
 
 
 ## Todo
